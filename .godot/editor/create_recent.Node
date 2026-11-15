@@ -1,0 +1,14 @@
+CollisionShape2D
+Area2D
+Node2D
+TileMapLayer
+Label
+CanvasLayer
+AnimatedSprite2D
+AudioStreamPlayer2D
+Button
+VBoxContainer
+CenterContainer
+ColorRect
+Camera2D
+Sprite2D

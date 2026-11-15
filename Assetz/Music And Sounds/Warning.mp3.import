@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b241aj6cq8762"
+path="res://.godot/imported/Warning.mp3-72043b5180c4870b2ac671319e72213f.mp3str"
+
+[deps]
+
+source_file="res://Assetz/Music And Sounds/Warning.mp3"
+dest_files=["res://.godot/imported/Warning.mp3-72043b5180c4870b2ac671319e72213f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

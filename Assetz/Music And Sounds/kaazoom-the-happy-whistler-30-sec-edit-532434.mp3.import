@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4j1gaxclh2kt"
+path="res://.godot/imported/kaazoom-the-happy-whistler-30-sec-edit-532434.mp3-5116fcd2a918f1d9639372712a6e8df8.mp3str"
+
+[deps]
+
+source_file="res://Assetz/Music And Sounds/kaazoom-the-happy-whistler-30-sec-edit-532434.mp3"
+dest_files=["res://.godot/imported/kaazoom-the-happy-whistler-30-sec-edit-532434.mp3-5116fcd2a918f1d9639372712a6e8df8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
